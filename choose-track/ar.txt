@@ -1,8 +1,8 @@
-# إختيار المسار
+## إختيار المسار
 
 ### في هذه المرحلة أصبحت مستعداً لإختيار المسار الذي تريد دراستة للقيام بذلك 
 
-[![اختر مسارك](assets/button.png)](https://coretabs.net/select-track)
+[![اختر مسارك](/assets/button.png)](https://coretabs.net/select-track)
 
 
 ***
