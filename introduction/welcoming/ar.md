@@ -1,4 +1,4 @@
-![Tour track](tour.png) 
+![Tour track](./assets/tour.png) 
 
 ## مرحبا
 
